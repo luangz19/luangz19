@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👨🏽‍🏫 Luan Gonzaga
 
-<!--
-**luangz19/luangz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Professor de Matemática`**
 
-Here are some ideas to get you started:
+- Atualmente estou cursando Mestrado em Matemática pela Universidade Federal do Amazonas (UFAM).
+- Sou formado em Licenciatura em Matemática pela Universidade do Estado do Amazonas (UEA) 2023.
+- Possuo formação de Técnico em Logística (2022), Contabilidade (2021) e Administração (2019).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aprendendo Python
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<br />
+
+### Redes Sociais
+
+
