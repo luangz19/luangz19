@@ -42,7 +42,7 @@
 <br />         
 
 ### Redes Sociais
-<linkedin.com/in/luan-gonzaga>
+https://www.linkedin.com/in/luan-gonzaga
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
 
