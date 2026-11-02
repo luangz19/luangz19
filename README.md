@@ -2,11 +2,11 @@
 
 ### Matemática Aplicada | Ciência de Dados | Machine Learning
 
-Sou **Mestre em Matemática**, com formação em Matemática Aplicada e experiência em **modelagem matemática, análise de dados e programação científica**.
+Sou **Mestre em Matemática**, com formação em Matemática Aplicada e experiência em **modelagem matemática e programação científica**.
 
 Minha trajetória acadêmica envolve a aplicação de métodos matemáticos e computacionais na resolução de problemas reais, incluindo **modelagem por equações diferenciais, ajuste de modelos, análise estatística e tratamento de dados**.
 
-Atualmente, venho direcionando essa base quantitativa para projetos em **Análise de Dados, Ciência de Dados e Machine Learning**, utilizando principalmente **Python, SQL e PostgreSQL**.
+Atualmente, venho direcionando essa base quantitativa para projetos em **Ciência de Dados e Machine Learning**, utilizando principalmente **Python, SQL e PostgreSQL**.
 
 Também atuo como **Professor de Matemática**, experiência que fortaleceu minha capacidade de comunicação, raciocínio analítico e apresentação de conceitos complexos de forma clara.
 
@@ -30,7 +30,6 @@ Também atuo como **Professor de Matemática**, experiência que fortaleceu minh
 
 ## 📊 Áreas de Interesse
 
-- Análise de Dados
 - Ciência de Dados
 - Machine Learning
 - Matemática Aplicada
@@ -124,32 +123,9 @@ Essa experiência consolidou meu interesse pela interseção entre **Matemática
 
 ---
 
-## 🚀 Projetos
-
-Atualmente estou desenvolvendo projetos voltados para construção de portfólio em Dados, envolvendo:
-
-- **SQL e PostgreSQL** para consultas e análise de dados;
-- **Python e Pandas** para tratamento e análise;
-- análise exploratória de dados;
-- visualização de dados;
-- indicadores de negócio;
-- Machine Learning;
-- modelagem matemática e estatística;
-- dashboards e Business Intelligence.
-
-### 📊 SulVarejo Analytics
-
-Projeto de análise de dados que simula um ambiente de varejo, utilizando:
-
-`PostgreSQL` • `SQL` • `Docker` • `Python` • `Pandas` • `Git`
-
-O projeto envolve modelagem de banco de dados, consultas analíticas, análise de produtos, clientes, vendas, faturamento, custos e margens.
-
----
-
 ## 🎯 Objetivo Profissional
 
-Busco ampliar minha atuação profissional em áreas relacionadas a **Análise de Dados, Ciência de Dados, Machine Learning e Matemática Aplicada**, combinando minha formação matemática com programação e tecnologias de dados.
+Busco ampliar minha atuação profissional em áreas relacionadas a **Ciência de Dados, Machine Learning e Matemática Aplicada**, combinando minha formação matemática com programação e tecnologias de dados.
 
 Tenho especial interesse em problemas nos quais seja necessário transformar **dados em modelos, análises e informações úteis para tomada de decisão**.
 
