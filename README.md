@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Luan Gonzaga
 
-### Matemática Aplicada | Análise de Dados | Ciência de Dados | Machine Learning
+### Matemática Aplicada | Ciência de Dados | Machine Learning
 
 Sou **Mestre em Matemática**, com formação em Matemática Aplicada e experiência em **modelagem matemática, análise de dados e programação científica**.
 
